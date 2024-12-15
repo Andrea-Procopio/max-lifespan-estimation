@@ -1,9 +1,16 @@
 # Maximum lifespan estimation via Leukocyte Telomere Length (LTL)
 
-This repository is about a project i worked on for the Statistics course in my first year of bachelor.
+## Question: can a biological human live forever?
 
-The original objective for the project was to estimate the maximum lifespan of a biological human being using existent datasets on mortality (such ad the IDL).
-We instead thought about reframing the problem by investigating the fundamental reasons that cause life to decay, which we identified mainly in the shortening of telomere length.
+This repository is about a project I worked on for the Statistics course in my first year of bachelor's.
 
-After an extensive literature research on the matter, we identified the Telomere Length computed from peripherical blood Leukocyte cells as the most used telomer aging biomarker, and we thus decided to proceed with that.
-To gather the data needed for the analysis we contacted the University of Calabria and obtained access to a dataset containing longitudinal and cross sectional data about LTL through different age and sex groups.
+The research objective for the project was to answer the question about the existence of a theoretical maximum lifespan for a biological human being.
+The standard approach for the project consisted in the evaluation of existent datasets on mortality, such ad the IDL, for which the literature showed a ≈50% "coin-flip" level mortality rate in supercenetarians ("Life is unlimited - but short, Rootzen & Zholoud).
+
+I wanted to answer such a question by trying to investigate the underlying truth behind the decay of life.
+The problem was then reframed to investigate the fundamental reasons that cause a biological system to age (decay).
+After extensive research about ageing, biological immortality, and human ageing, the most promising biomarkers identified were telomere length and telomere attrition (the rate at which a telomere loses base pairs in the absence of telomerase).
+
+Telomere length computed from peripheral blood circulants Leukocytes was found to be the most researched and widely available biomarker in literature.
+
+The longitudinal and cross-sectional datasets used in this study were provided by the University of Calabria (UNICAL).
