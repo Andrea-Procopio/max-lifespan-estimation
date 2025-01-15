@@ -2,7 +2,7 @@
 
 ## Question: can a biological human live forever?
 
-This repository is about a project I worked on for the Statistics course in my first year of bachelor's.
+This repository is about a project I did for the Statistics course in my first year of bachelor's, which was also awarded as the best of the course by course and bachelor director Prof. Pmiros Papaspiliopoulos.
 
 The research objective for the project was to answer the question about the existence of a theoretical maximum lifespan for a biological human being.
 The standard approach for the project consisted in the evaluation of existent datasets on mortality, such ad the IDL, for which the literature showed a ≈50% "coin-flip" level mortality rate in supercenetarians ("Life is unlimited - but short, Rootzen & Zholoud).
