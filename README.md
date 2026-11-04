@@ -1,19 +1,18 @@
-# Maximum lifespan estimation via Leukocyte Telomere Length (LTL)
+# Telomere length and the limits of human lifespan
 
-## Question: can a biological human live forever?
+A statistics research project on human longevity, leukocyte telomere length, and survival analysis, developed with Lorenzo Battaglia and Lorenzo Caputi.
 
-This repository is about a project I did for the Statistics course in my first year of bachelor's, which was also awarded as the best of the course by course and bachelor director Prof. Pmiros Papaspiliopoulos.
+This repository preserves an earlier version of the analysis and report. For the more complete collaborative write-up, code, and documented results, see [*Telomere length and a limit to human lifespan*](https://github.com/lorenzocaputi/telomere-longevity).
 
-The research objective for the project was to answer the question about the existence of a theoretical maximum lifespan for a biological human being.
-The standard approach for the project consisted in the evaluation of existent datasets on mortality, such ad the IDL, for which the literature showed a ≈50% "coin-flip" level mortality rate in supercenetarians ("Life is unlimited - but short, Rootzen & Zholoud).
+## Contents
 
-I wanted to answer such a question by trying to investigate the underlying truth behind the decay of life.
-The problem was then reframed to investigate the fundamental reasons that cause a biological system to age (decay).
-After extensive research about ageing, biological immortality, and human ageing, the most promising biomarkers identified were telomere length and telomere attrition (the rate at which a telomere loses base pairs in the absence of telomerase).
+- `tunnel-of-life.pdf` — original project report.
+- `final-script-dataset-unical.R` — R analysis script using data from the University of Calabria.
 
-Telomere length computed from peripheral blood circulants Leukocytes was found to be the most researched and widely available biomarker in literature.
+## Research question
 
-The longitudinal and cross-sectional datasets used in this study were provided by the University of Calabria (UNICAL).
+We explored whether telomere shortening and survival patterns might inform the debate over the existence of an upper limit to human lifespan. The analysis is **exploratory**; it does not establish a biological maximum lifespan.
 
+The underlying study data may not be publicly redistributable. Reproducing the script may require access to those source datasets.
 
-Side note: the length of the document was heavily constrained by the submission requirements for the project.
+For other research, see [andreaprocopio.com/research.html](https://andreaprocopio.com/research.html).
